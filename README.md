@@ -31,5 +31,5 @@ The Sales Forecasting System is a beginner-level Machine Learning project that p
 ---
 
 ## 📂 Project Structure
-![Prediction_Page](output_image/figure_1)
+![Prediction_Page](output_image/Figure_1)
 ![Prediction_Page](output_image/output)
